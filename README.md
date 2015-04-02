@@ -13,4 +13,4 @@ line 6
 
 final line (7)
 
-this line is added to test commit amend
+added to change file before attempting amend #2
