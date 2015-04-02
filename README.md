@@ -1,3 +1,5 @@
+adding this line to check commit message editor
+
 This is the new readme file - line 1
 
 line 2
