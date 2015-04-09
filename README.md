@@ -8,7 +8,7 @@ line 3 - Added by nowhere - will commit and push before retail does
 
 line 4 - edit by retail after nowhere push to origin
 
-line 5
+line 5 - checking on push command from retail
 
 line 6
 
