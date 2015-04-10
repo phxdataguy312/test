@@ -10,7 +10,7 @@ line 4 - edit by retail after nowhere push to origin
 
 line 5 - added by retail on branch 'mybranch'
 
-line 6 - added by dguy on forked repo - I think this is master
+line 6 - added by dguy on forked repo - <INSERTED THIS> - I think this is master
 
 
 final line (7)
